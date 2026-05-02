@@ -62,12 +62,6 @@ vinod = {
 
 ---
 
-### 📰 [Blog-App](https://github.com/vinod-meghwar/Blog-App)
-> A basic blog web app — Cloud Computing Assignment
-- `HTML` `Cloud Computing`
-
----
-
 ## 💼 Experience
 
 **🏢 AI Data Analyst Intern — Excelerate** *(Feb 2026 – Mar 2026 | Dubai, UAE 🇦🇪)*
