@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vinod Kumar 👋</h1>
 
 <p align="center">
-  <b>Data Analytics | Python | SQL | Machine Learning | Flask</b><br/>
+  <b>Data Science | Building AI Agents & Data Pipelines | Python • SQL • ML</b><br/>
   <i>Transforming Data into Actionable Insights 🚀</i>
 </p>
 
